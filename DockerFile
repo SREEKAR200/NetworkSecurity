@@ -1,6 +1,6 @@
-from python:4.15-slim-buster
+FROM python:4.15-slim-buster
 WORKDIR /app
-COPY ./app
+COPY . /app
 
 RUN apt update -y && apt install awscli -y
 
