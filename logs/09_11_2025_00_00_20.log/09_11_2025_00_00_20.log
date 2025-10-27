@@ -1,7 +1,0 @@
-[00:00:20] {C:\Anaconda\Lib\site-packages\numexpr\utils.py:148} INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
-[00:00:20] {C:\Anaconda\Lib\site-packages\numexpr\utils.py:160} INFO - NumExpr defaulting to 8 threads.
-[00:00:21] {C:\Netwroking_Project\main.py:12} INFO - Initiate the data ingestion
-[00:00:24] {C:\Netwroking_Project\NetworkSecurity\components\data_ingestion.py:56} INFO - Performed train test split on dataframe
-[00:00:24] {C:\Netwroking_Project\NetworkSecurity\components\data_ingestion.py:57} INFO - Exited Split test method of Data_ingestion Class
-[00:00:24] {C:\Netwroking_Project\NetworkSecurity\components\data_ingestion.py:60} INFO - Exporting train and test file path
-[00:00:24] {C:\Netwroking_Project\NetworkSecurity\components\data_ingestion.py:67} INFO - Exported train and test file path

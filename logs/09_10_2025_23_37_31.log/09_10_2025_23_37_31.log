@@ -1,3 +1,0 @@
-[23:37:31] {C:\Anaconda\Lib\site-packages\numexpr\utils.py:148} INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
-[23:37:31] {C:\Anaconda\Lib\site-packages\numexpr\utils.py:160} INFO - NumExpr defaulting to 8 threads.
-[23:37:32] {C:\Netwroking_Project\main.py:12} INFO - Initiate the data ingestion
