@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Netwroking_Project/mlruns/0/models/m-984425814a8f4979841a64ac932074c8/artifacts
+creation_timestamp: 1761737636860
+experiment_id: '0'
+last_updated_timestamp: 1761737639899
+model_id: m-984425814a8f4979841a64ac932074c8
+model_type: null
+name: model
+source_run_id: 9bfbffd62e37400eb1a4b7fdbc42ba53
+status: 2
+status_message: null

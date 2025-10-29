@@ -50,16 +50,16 @@ class NetworkDataExtract():
             raise NetworkSecurityException(e,sys)
         
     
-class NetworkDataExtract():
-    if __name__=="__main__":
-        FILE_PATH="Network_data\phisingData.csv"
-        DATABASE="NetworksAI"
-        Collection="Network_data"
-        networkobj=NetworkDataExtract()
-        records=networkobj.cv_to_json_converter(file_path=FILE_PATH)
-        print(records)
-        no_of_records=networkobj.insert_data_mongodb(records,DATABASE,Collection)
-        print(no_of_records)
+
+if __name__=="__main__":
+    FILE_PATH="Network_data\phisingData.csv"
+    DATABASE="NetworksAI"
+    Collection="Network_data"
+    networkobj=NetworkDataExtract()
+    records=networkobj.cv_to_json_converter(file_path=FILE_PATH)
+    print(records)
+    no_of_records=networkobj.insert_data_mongodb(records,DATABASE,Collection)
+    print(no_of_records)
 
 
 
